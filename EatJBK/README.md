@@ -7,7 +7,7 @@ _🦌 网页小游戏 🥛_
 
 小游戏：吃掉金贝克
 
-链接:carloteeeee.github.io/EatJBK/index.html
+链接:https://carloteeeee.github.io/EatJBK/index.html
 
 ## 原项目
 线上版本:https://xingye.me/game/eatkano/index.php
